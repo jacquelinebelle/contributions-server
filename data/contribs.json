@@ -1,0 +1,488 @@
+{
+	"id": "dd4b2779-4ad7-4aca-8528-26c9a4619267",
+	"name": "contributors",
+	"allTests": [],
+	"timestamp": "2019-08-15T22:32:52.791Z",
+	"collection_id": "36e616dc-a67c-45fb-b161-f3cc4ff50804",
+	"folder_id": 0,
+	"target_type": "collection",
+	"environment_id": "039587e0-8c24-41d3-a40d-6660dfd3abd4",
+	"data": [],
+	"delay": 0,
+	"count": 100,
+	"collection": {
+		"id": "36e616dc-a67c-45fb-b161-f3cc4ff50804",
+		"name": "contributors",
+		"description": "",
+		"auth": null,
+		"events": null,
+		"variables": [],
+		"order": [
+			"7b10e9d0-f374-4c0b-9bd4-a643eee330d4"
+		],
+		"folders_order": [],
+		"owner": "8264375",
+		"favorite": false
+	},
+	"folder": null,
+	"environment": null,
+	"globals": [],
+	"results": [
+		{
+			"name": "https://www.opensecrets.org/api/?method=candContrib&cid={{crp_id}}&cycle=2018&apikey=57516d892e7c1a164455ab84e1c5f004&output=json",
+			"id": "7b10e9d0-f374-4c0b-9bd4-a643eee330d4",
+			"totalTime": 0,
+			"responseCode": {
+				"code": 200,
+				"name": "OK",
+				"detail": {
+					"name": "OK",
+					"detail": "Standard response for successful HTTP requests. The actual response will depend on the request method used. In a GET request, the response will contain an entity corresponding to the requested resource. In a POST request the response will contain an entity describing or containing the result of the action."
+				}
+			},
+			"tests": {
+				"body": true
+			},
+			"testPassFailCounts": {
+				"body": {
+					"pass": 100,
+					"fail": 0
+				}
+			},
+			"times": [
+				"2480",
+				"2144",
+				"2275",
+				"2827",
+				"2424",
+				"2410",
+				"2129",
+				"89",
+				"2459",
+				"2127",
+				"3487",
+				"2149",
+				"2150",
+				"2366",
+				"2412",
+				"2205",
+				"2338",
+				"2122",
+				"2421",
+				"2131",
+				"2204",
+				"2577",
+				"2183",
+				"2175",
+				"2272",
+				"2837",
+				"2215",
+				"2226",
+				"2190",
+				"2456",
+				"2749",
+				"2477",
+				"2180",
+				"2372",
+				"2353",
+				"3586",
+				"2147",
+				"2328",
+				"2134",
+				"2353",
+				"2147",
+				"2151",
+				"2152",
+				"2192",
+				"2144",
+				"2590",
+				"3344",
+				"2145",
+				"2155",
+				"2357",
+				"2195",
+				"2189",
+				"2189",
+				"2695",
+				"2138",
+				"2591",
+				"2248",
+				"2147",
+				"2214",
+				"4190",
+				"2297",
+				"2150",
+				"2657",
+				"2145",
+				"2147",
+				"2346",
+				"2848",
+				"2547",
+				"2596",
+				"2148",
+				"2396",
+				"2147",
+				"2149",
+				"2197",
+				"2198",
+				"2199",
+				"2148",
+				"2142",
+				"2641",
+				"2491",
+				"2387",
+				"2153",
+				"2549",
+				"2194",
+				"2159",
+				"3413",
+				"2151",
+				"2152",
+				"2335",
+				"2694",
+				"2194",
+				"2246",
+				"2784",
+				"2204",
+				"2145",
+				"2460",
+				"2599",
+				"2545",
+				"2167",
+				"2200"
+			],
+			"allTests": [
+				{
+					"body": true
+				},
+				{
+					"body": true
+				},
+				{
+					"body": true
+				},
+				{
+					"body": true
+				},
+				{
+					"body": true
+				},
+				{
+					"body": true
+				},
+				{
+					"body": true
+				},
+				{
+					"body": true
+				},
+				{
+					"body": true
+				},
+				{
+					"body": true
+				},
+				{
+					"body": true
+				},
+				{
+					"body": true
+				},
+				{
+					"body": true
+				},
+				{
+					"body": true
+				},
+				{
+					"body": true
+				},
+				{
+					"body": true
+				},
+				{
+					"body": true
+				},
+				{
+					"body": true
+				},
+				{
+					"body": true
+				},
+				{
+					"body": true
+				},
+				{
+					"body": true
+				},
+				{
+					"body": true
+				},
+				{
+					"body": true
+				},
+				{
+					"body": true
+				},
+				{
+					"body": true
+				},
+				{
+					"body": true
+				},
+				{
+					"body": true
+				},
+				{
+					"body": true
+				},
+				{
+					"body": true
+				},
+				{
+					"body": true
+				},
+				{
+					"body": true
+				},
+				{
+					"body": true
+				},
+				{
+					"body": true
+				},
+				{
+					"body": true
+				},
+				{
+					"body": true
+				},
+				{
+					"body": true
+				},
+				{
+					"body": true
+				},
+				{
+					"body": true
+				},
+				{
+					"body": true
+				},
+				{
+					"body": true
+				},
+				{
+					"body": true
+				},
+				{
+					"body": true
+				},
+				{
+					"body": true
+				},
+				{
+					"body": true
+				},
+				{
+					"body": true
+				},
+				{
+					"body": true
+				},
+				{
+					"body": true
+				},
+				{
+					"body": true
+				},
+				{
+					"body": true
+				},
+				{
+					"body": true
+				},
+				{
+					"body": true
+				},
+				{
+					"body": true
+				},
+				{
+					"body": true
+				},
+				{
+					"body": true
+				},
+				{
+					"body": true
+				},
+				{
+					"body": true
+				},
+				{
+					"body": true
+				},
+				{
+					"body": true
+				},
+				{
+					"body": true
+				},
+				{
+					"body": true
+				},
+				{
+					"body": true
+				},
+				{
+					"body": true
+				},
+				{
+					"body": true
+				},
+				{
+					"body": true
+				},
+				{
+					"body": true
+				},
+				{
+					"body": true
+				},
+				{
+					"body": true
+				},
+				{
+					"body": true
+				},
+				{
+					"body": true
+				},
+				{
+					"body": true
+				},
+				{
+					"body": true
+				},
+				{
+					"body": true
+				},
+				{
+					"body": true
+				},
+				{
+					"body": true
+				},
+				{
+					"body": true
+				},
+				{
+					"body": true
+				},
+				{
+					"body": true
+				},
+				{
+					"body": true
+				},
+				{
+					"body": true
+				},
+				{
+					"body": true
+				},
+				{
+					"body": true
+				},
+				{
+					"body": true
+				},
+				{
+					"body": true
+				},
+				{
+					"body": true
+				},
+				{
+					"body": true
+				},
+				{
+					"body": true
+				},
+				{
+					"body": true
+				},
+				{
+					"body": true
+				},
+				{
+					"body": true
+				},
+				{
+					"body": true
+				},
+				{
+					"body": true
+				},
+				{
+					"body": true
+				},
+				{
+					"body": true
+				},
+				{
+					"body": true
+				},
+				{
+					"body": true
+				},
+				{
+					"body": true
+				},
+				{
+					"body": true
+				},
+				{
+					"body": true
+				},
+				{
+					"body": true
+				},
+				{
+					"body": true
+				}
+			],
+			"time": "2200",
+			"totalRequestTime": 235652,
+			"iterationResults": {}
+		}
+	],
+	"totalPass": 100,
+	"totalFail": 0,
+	"totalTime": 235652,
+	"lifecycle": "done",
+	"requests": [
+		{
+			"name": "https://www.opensecrets.org/api/?method=candContrib&cid={{crp_id}}&cycle=2018&apikey=57516d892e7c1a164455ab84e1c5f004&output=json",
+			"id": "7b10e9d0-f374-4c0b-9bd4-a643eee330d4",
+			"url": "https://www.opensecrets.org/api/?method=candContrib&cid=N00036633&cycle=2018&apikey=57516d892e7c1a164455ab84e1c5f004",
+			"time": "2200",
+			"responseCode": {
+				"code": 200,
+				"name": "OK",
+				"detail": {
+					"name": "OK",
+					"detail": "Standard response for successful HTTP requests. The actual response will depend on the request method used. In a GET request, the response will contain an entity corresponding to the requested resource. In a POST request the response will contain an entity describing or containing the result of the action."
+				}
+			},
+			"testPassFailCounts": {
+				"body": {
+					"pass": 100,
+					"fail": 0
+				}
+			}
+		}
+	],
+	"synced": false
+}
